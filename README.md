@@ -15,4 +15,35 @@ NumPy's `random` module was used to generate 2000 geo coordinates, which were th
 
 The code was configured so that users can enter their desired temperature range, which would then filter the dataset to find the cities that matched the criteria. Google Maps API was used to locate nearby hotels. Users also have the option to choose four cities to create a travel itinerary. 
 
+## QUICK LINKS
 
+**CSV Files:**
+
+* [WeatherPy_Database](https://github.com/farwaali08/world-weather-analysis/blob/65393b84d8485027fa9086d7adec54db1ac5395b/weather-database/WeatherPy_Database.csv)
+
+* [WeatherPy_Vacation](https://github.com/farwaali08/world-weather-analysis/blob/65393b84d8485027fa9086d7adec54db1ac5395b/vacation-search/WeatherPy_Vacation.csv)
+
+
+**Code:**
+
+* [Weather_Database](https://github.com/farwaali08/world-weather-analysis/blob/65393b84d8485027fa9086d7adec54db1ac5395b/weather-database/Weather_Database.ipynb)
+
+* [Vacation_Search](https://github.com/farwaali08/world-weather-analysis/blob/65393b84d8485027fa9086d7adec54db1ac5395b/vacation-search/Vacation_Search_starter_code.ipynb) 
+
+* [Vacation_Itinerary](https://github.com/farwaali08/world-weather-analysis/blob/65393b84d8485027fa9086d7adec54db1ac5395b/Vacation_Itinerary/Vacation_Itinerary_starter_code.ipynb)
+
+
+## VACATION SEARCH
+
+![alt_text](https://github.com/farwaali08/world-weather-analysis/blob/65393b84d8485027fa9086d7adec54db1ac5395b/vacation-search/WeatherPy_vacation_map.png)
+
+
+
+## VACATION ITINERARY
+
+![alt_text](https://github.com/farwaali08/world-weather-analysis/blob/65393b84d8485027fa9086d7adec54db1ac5395b/Vacation_Itinerary/WeatherPy_travel_map.png)
+
+
+
+
+![alt_text](https://github.com/farwaali08/world-weather-analysis/blob/65393b84d8485027fa9086d7adec54db1ac5395b/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
