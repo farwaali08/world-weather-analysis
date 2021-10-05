@@ -43,7 +43,7 @@ The map below displays potential travel destinations and nearby hotels based on 
 
 ## VACATION ITINERARY
 
-In this example, a travel route and itinerary was created for 4 cities in Japan.
+In this example, a travel route/itinerary was created for 4 cities in Japan.
 
 ![alt_text](https://github.com/farwaali08/world-weather-analysis/blob/65393b84d8485027fa9086d7adec54db1ac5395b/Vacation_Itinerary/WeatherPy_travel_map.png)
 
